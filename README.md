@@ -2,7 +2,7 @@
 
 A formula-driven Scope 1–3 GHG inventory workbook in Excel — the same tab structure and discipline (activity data, a cited emission-factor library, formula-linked totals, zero hardcoded results) used in a real client-facing carbon accounting engagement.
 
-![Preview](preview.png)
+![Preview](ghg-excel-model-preview.png)
 
 **[Download the workbook →](GHG_Inventory_Excel_Model.xlsx)**
 
